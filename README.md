@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Samyam Dhamala
 
-<!--
-**samyamdhamala/samyamdhamala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm a Data Science & Software Engineering enthusiast  
+💻 Skilled in Python, C++, QA Testing, and Data Visualization  
+🚀 I love building projects that solve real-world problems  
+📊 Passionate about turning data into insights  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages**: Python, C++, JavaScript, Dart
+- **Tools**: Cypress, Postman, Power BI, Tableau, Git
+- **Frameworks**: Node.js, ASP.NET, Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+🔸 [Cha-Ching $$ - Expense Tracker]([https://github.com/alvianowar/Cha-Ching])  
+🔸 [E-States Nepal (Full-Stack App)](https://github.com/yourusername/e-states-nepal)
+🔸 [Sorting Algorithm Analysis (C++)](https://github.com/yourusername/sorting-analysis)  
+
+## 📬 Connect with me
+[LinkedIn](https://linkedin.com/in/samyamdhamala) | [Email](mailto:samyamdhamala11@gmail.com)
