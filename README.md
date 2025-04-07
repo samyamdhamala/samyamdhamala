@@ -11,9 +11,9 @@
 - **Frameworks**: Node.js, ASP.NET, Flutter
 
 ## 📂 Featured Projects
-🔸 [Cha-Ching $$ - Expense Tracker]([https://github.com/alvianowar/Cha-Ching])  
-🔸 [E-States Nepal (Full-Stack App)](https://github.com/yourusername/e-states-nepal)
-🔸 [Sorting Algorithm Analysis (C++)](https://github.com/yourusername/sorting-analysis)  
+🔸 [Cha-Ching $$ - Expense Tracker](https://github.com/samyamdhamala/Cha-Ching)  
+🔸 [E-States Nepal (Full-Stack App)](https://github.com/samyamdhamala/E-States-Nepal-Overview)
+🔸 [Sorting Algorithm Analysis (C++)](https://github.com/samyamdhamala/sorting-analysis)  
 
 ## 📬 Connect with me
 [LinkedIn](https://linkedin.com/in/samyamdhamala) | [Email](mailto:samyamdhamala11@gmail.com)
