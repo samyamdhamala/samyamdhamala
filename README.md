@@ -11,6 +11,7 @@
 - **Frameworks**: Node.js, ASP.NET, Flutter
 
 ## 📂 Featured Projects
+🔸 [ChatBot-Portfolio  - Chatfolio](https://github.com/samyamdhamala/samyam-chatfolio)
 🔸 [Cha-Ching $$ - Expense Tracker](https://github.com/samyamdhamala/Cha-Ching)  
 🔸 [E-States Nepal (Full-Stack App)](https://github.com/samyamdhamala/E-States-Nepal-Overview)
 🔸 [Sorting Algorithm Analysis (C++)](https://github.com/samyamdhamala/sorting-algorithms)  
