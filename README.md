@@ -4,7 +4,7 @@
 📍 NYC Metropolitan Area  
 
 I design and build scalable automation frameworks for web and API systems.  
-With nearly 3 years of experience in manual and automated testing, I focus on improving test coverage, increasing release confidence, and integrating automation into CI/CD pipelines.
+With experience in both manual and automated testing, I focus on improving test coverage, increasing release confidence, and integrating automation into CI/CD pipelines.
 
 I transitioned from manual QA into automation and enjoy turning repetitive validation into reliable, maintainable code.
 
