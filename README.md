@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Samyam Dhamala
 
 💻 **QA Automation Engineer**  
-📍 NYC Metropolitan Area  
 
 I design and build scalable automation frameworks for web and API systems.  
 With experience in both manual and automated testing, I focus on improving test coverage, increasing release confidence, and integrating automation into CI/CD pipelines.
