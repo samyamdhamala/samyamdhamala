@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Samyam Dhamala
 
-💻 **QA Automation Engineer**  
+💻 **QA Automation Engineer**
 
-I design and build scalable automation frameworks for web and API systems.  
-With experience in both manual and automated testing, I focus on improving test coverage, increasing release confidence, and integrating automation into CI/CD pipelines.
+I design and build test automation frameworks for web and API systems, and combine that with hands-on manual testing. I focus on improving test coverage, increasing release confidence, and integrating automation into CI/CD pipelines.
 
 I transitioned from manual QA into automation and enjoy turning repetitive validation into reliable, maintainable code.
 
@@ -11,158 +10,142 @@ I transitioned from manual QA into automation and enjoy turning repetitive valid
 
 ## 🚀 What I Do
 
-- Build maintainable frontend automation frameworks  
-- Design API validation workflows  
-- Integrate automation into CI/CD pipelines  
-- Perform load & performance testing  
-- Improve regression stability  
-- Collaborate closely with developers in Agile environments  
+- Build test automation frameworks from scratch for frontend and API systems
+- Design API validation workflows
+- Integrate automation into CI/CD pipelines
+- Validate data integrity through SQL and direct database checks
+- Improve regression stability
+- Collaborate closely with developers and product owners in Agile environments
+- Use AI-assisted engineering tools (Claude Code, Cursor) daily as part of my workflow
 
 ---
 
 ## 🛠️ Technical Stack
 
 ### 🔹 Automation & Testing
-- Cypress.js  
-- Playwright  
-- Postman  
-- Swagger  
-- JMeter  
-- K6  
-- Selenium (early experience)  
-- Git / GitHub  
-- CI/CD integration  
+- Playwright
+- Cypress.js
+- Selenium
+- Postman
+- Swagger
+- K6 (performance test support)
+- Git / GitHub
+- CI/CD integration (GitHub Actions)
 
 ### 🔹 Programming
-- JavaScript  
-- Python  
-- C++  
-- C#  
-- TypeScript (familiar)  
+- TypeScript
+- JavaScript
+- Python
+- SQL
+- C++ (academic coursework)
 
 ### 🔹 Process & Collaboration
-- Agile (Scrum & Kanban)  
-- JIRA  
-- SDLC  
-- Defect triage  
-- Test case design & documentation  
+- Agile (Scrum & Kanban)
+- JIRA
+- SDLC
+- Defect triage
+- Test case design & documentation
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Playwright Automation Framework
-
-Built a data-driven end-to-end automation suite validating board workflows across web and mobile scenarios.
+### 🔹 e2e-playwright-ci — Playwright Automation Framework
+Personal end-to-end automation project testing saucedemo.com, a public e-commerce demo site: login, cart, checkout, and sorting flows.
 
 **Highlights:**
 - Implemented Page Object Model (POM)
-- Designed reusable test utilities
-- Used external JSON for data-driven testing
-- Structured modular test architecture
-- Debugged locator timing and visibility issues
-- Demonstrated clean async handling
+- 11 test cases run across Chromium, Firefox, and WebKit (33 total executions per run)
+- CI/CD pipeline via GitHub Actions, auto-publishing Allure reports on every push
+
+👉 https://github.com/samyamdhamala/e2e-playwright-ci
 
 ---
 
-### 🔹 Cypress Regression Automation Suite
-
-Designed and expanded a scalable Cypress-based regression framework for a production EdTech platform.
-
-**Impact:**
-- Increased regression coverage by ~35%
-- Reduced manual regression cycles
-- Integrated test runs into CI/CD pipelines
-
-**Technical Concepts:**
-- Custom commands
-- Fixture-based data
-- API + UI combined validation
-- Modular structuring
-- Cross-browser testing
-
----
-
-### 🔹 API Automation & REST Validation
-
-Built modular API test collections using Postman and REST principles.
+### 🔹 api-contract-testing — API Contract Validation
+Automated contract tests validating API schemas using JSON Schema, covering both live API calls and mocked failure scenarios.
 
 **Work Included:**
-- Status & schema validation
-- Data consistency checks
-- Authentication handling
-- Negative test scenarios
-- Integration into release workflows
+- Schema and status validation across resource types
+- Positive and negative test scenarios
+- CI integration via GitHub Actions
+
+👉 https://github.com/samyamdhamala/api-contract-testing
 
 ---
 
-### 🔹 Load & Performance Testing (K6 + JMeter)
+### 🔹 api-test-suite — API Testing with Python + pytest
+Automated test suite for JSONPlaceholder, a public REST API, built with Python and pytest.
 
-Generated HAR files using K6 and collaborated with DevOps to scale performance testing in JMeter.
+**Coverage:**
+- Status codes, headers, schema validation, and query param filtering
+- Nested field checks, boundary IDs, error handling (404s, empty payloads)
+- Smoke-test marker for fast critical-path checks
+- CI on every push via GitHub Actions, with HTML report artifacts
 
-Measured:
-- Response time under load  
-- Success rate trends  
-- Throughput bottlenecks  
-- Backend behavior under concurrency  
-
----
-
-### 🔹 Chatfolio – AI Portfolio (Next.js + Gemini API)
-
-AI-powered interactive portfolio website with structured API integration.
-
-Demonstrates:
-- API handling & validation  
-- Error resilience  
-- Modular frontend architecture  
-- Structured system design  
-
-👉 https://github.com/samyamdhamala/samyam-chatfolio  
+👉 https://github.com/samyamdhamala/api-test-suite
 
 ---
 
-### 🔹 C++ Algorithm Benchmarking
+### 🔹 performance-testing-cdf — Performance Testing with K6
+Personal performance testing project using K6 against JSONPlaceholder, a public demo API, simulating up to 500 concurrent users across three load scenarios (low, medium, stress).
 
-Implemented and benchmarked sorting algorithms up to 500k elements.
+**Note:** despite the repo name, this tests a public demo API for practice, not a production CDF system.
 
-Demonstrates:
-- Runtime complexity analysis  
-- Performance profiling  
-- Memory behavior understanding  
-- Deep debugging skills  
+👉 https://github.com/samyamdhamala/performance-testing-cdf
 
-👉 https://github.com/samyamdhamala/sorting-algorithms  
+---
+
+### 🔹 bug-triage-ai — AI-Powered Bug Triage (MVP, in progress)
+An early-stage tool that converts raw, unstructured bug reports into structured tickets using an LLM, with confidence scoring to flag low-confidence cases for human review.
+
+**Status:** early MVP, actively being developed further.
+
+👉 https://github.com/samyamdhamala/bug-triage-ai
+
+---
+
+### 🔹 E-States Nepal — Full-Stack Property Listing Platform
+A full-stack property listing app: Flutter frontend, Express.js + MySQL backend, JWT auth, REST API.
+
+👉 https://github.com/samyamdhamala/E-States-Nepal-Overview
+
+---
+
+## 💼 Professional Experience Highlights
+
+The projects above are personal work. My professional automation and QA experience includes:
+
+- Built a Playwright/TypeScript automation framework from scratch at Community Dreams Foundation, 100+ end-to-end tests with full CI/CD integration
+- Led Cypress-based regression automation at Innovate Tech, integrated into CI/CD across 30+ release cycles, increasing regression coverage by 35%
+- Designed and executed REST/SOAP API testing across 100+ endpoints using Postman and Swagger
+
+Full details are on my [LinkedIn](https://linkedin.com/in/samyam-dhamala).
 
 ---
 
 ## 🧠 Automation Philosophy
 
 I believe automation should:
+- Be readable and maintainable
+- Run consistently in CI/CD
+- Validate business logic, not just UI clicks
+- Catch regressions early
+- Scale with product growth
 
-- Be readable and maintainable  
-- Run consistently in CI/CD  
-- Validate business logic, not just UI clicks  
-- Catch regressions early  
-- Scale with product growth  
-
-Good automation is engineering — not just scripting.
+Good automation is engineering, not just scripting.
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced Playwright architecture patterns  
-- Automation for microservices-based systems  
-- AI-assisted test generation  
-- Performance optimization strategies  
+- Advanced Playwright architecture patterns
+- AI-assisted testing workflows
+- Performance testing fundamentals
 
 ---
 
 ## 📬 Connect With Me
 
-🔗 LinkedIn: https://linkedin.com/in/samyamdhamala  
-📧 Email: dhamalasamyam27@gmail.com  
-🌐 Portfolio: https://samyamdhamala.vercel.app  
-
-
+🔗 LinkedIn: https://linkedin.com/in/samyam-dhamala
+📧 Email: samdhamala727@gmail.com
